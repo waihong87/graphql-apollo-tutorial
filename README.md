@@ -12,4 +12,5 @@ A basic project to highlight the use of GraphQL via Apollo Server
    - Make sure mongoDB is installed and is running
    - Run npm install to install all neccesary dependencies
    - On command line: npm run server
+   - Open the url localhost:4000 to run the graphQL Playground
 
